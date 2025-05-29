@@ -104,7 +104,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.tenor.com/PvplvjIEENYAAAAC/hello-there-waving.gif"  />
+<img align="center" height="150" src="https://media.tenor.com/PvplvjIEENYAAAAC/hello-there-waving.gif"  />
 
 ###
 
